@@ -1,0 +1,28 @@
+	    *{
+	        font-family:Verdana;
+			
+	    }
+	    #tab{
+	        width:100%;
+	        border:solid 1px;
+	        text-align: left;
+	        border-collapse:collapse;
+	        border-color:#C1CDCD;
+			
+	    }
+	    #tab tr{
+	        height:30px;
+	    }
+	    #tab thead tr{
+	        background: #778899;
+	    }
+	    #tab tr td:first-child, #tab tr td:last-child{
+	        width:150px;
+	    }
+	    #tab tbody tr:nth-child(odd){
+	        background: #C1CDCD
+	    }
+	    .filtroColuna{
+	        width:100%;
+	        border:solid 1px;
+	    }
