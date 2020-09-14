@@ -1,2 +1,3 @@
-# POC-Filtro
-Table com filtro Jquery
+# Fitro em Tabela (JQUERY)
+
+Filtro para tabela utilizando Jquery.
