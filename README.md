@@ -1,3 +1,3 @@
-# Fitro em Tabela (JQUERY)
+# Filtro em Tabela (JQUERY)
 
 Filtro para tabela utilizando Jquery.
